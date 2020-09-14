@@ -1,0 +1,38 @@
+.about {
+  background-color: var(--light-grayish-blue);
+  font-size: 1rem;
+  padding: 5em 0;
+}
+.about__title {
+  width: 100%;
+  color: var(--dark-blue);
+  font-weight: 300;
+  font-size: 1.7em;
+  margin: 0 0 0.3em;
+}
+.about__paragraph {
+  width: 100%;
+  font-size: 0.8em;
+  padding-right: 18em;
+  margin-bottom: 4em;
+  color: var(--grayish-blue);
+}
+.about__item {
+  width: 23%;
+  margin: 0;
+}
+.about__item-img {
+  width: 55px;
+  height: 55px;
+}
+.about__item-title {
+  color: var(--dark-blue);
+  font-size: 1.05em;
+  font-weight: 300;
+}
+.about__item-text {
+  color: var(--grayish-blue);
+  font-size: 0.7em;
+  margin-bottom: 0;
+  text-align: justify;
+}

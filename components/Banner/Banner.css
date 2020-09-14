@@ -1,0 +1,20 @@
+.banner {
+  font-size: 1rem;
+  background-color: var(--white);
+  padding: 6em 0;
+}
+.banner__left-col {
+  width: 45%;
+}
+.banner__left-col-title {
+  color: var(--dark-blue);
+  font-size: 2.5em;
+  font-weight: 300;
+  margin-top: 0;
+  margin-bottom: 0.6em;
+}
+.banner__left-col-text {
+  font-size: 0.85em;
+  color: var(--grayish-blue);
+  margin-bottom: 2em;
+}
